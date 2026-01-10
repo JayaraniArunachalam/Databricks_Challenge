@@ -84,14 +84,12 @@ Databricks_Challenge/
 
 ---
 
-## 🔍 Key Learnings So Far
-- Databricks is a cloud-native platform built on Apache Spark
-- Spark enables distributed, in-memory data processing
-- Delta Lake provides ACID transactions, schema enforcement, and time travel
-- Data refinement happens in Silver and Gold layers, not automatically by Delta Lake
-- Apache Spark is a data processing engine that runs the components such as drivers, DAG, and executors during user code Execution.
-- drivers converts the user's code into a Directed Acyclic Graph (DAG) of operations, breaks it into stages and tasks, and manages task scheduling. It monitors executors and collects final results.
-- 
+## 📘 Learning Notes & Key Takeaways
+
+Along with daily learning folders, I maintain a living document
+to capture my personal understanding and mental models.
+
+👉 [Points to Remember – Key Learnings](Key_Notes/Points_to_Remember.md)
 
 ---
 
