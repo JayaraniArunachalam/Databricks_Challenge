@@ -73,12 +73,12 @@ This project follows **Lakehouse architecture**, where:
 Databricks_Challenge/
 │
 ├── README.md
-├── notebooks/
-│ └── day01_platform_basics/
-│ └── pyspark_basics_day1.py
+├── scripts/
+│ └── load-data_from_csv.py
+│ └── Day 2 Basic operations.ipynb
 ├── docs/
-│ ├── lakehouse_architecture.md
-│ └── workspace_structure.md
+│ ├── Databricks platform setup and overview.md
+│ └── Apache Spark Fundamentals IN DATABRICKS.pdf
 └── diagrams/
 ```
 
