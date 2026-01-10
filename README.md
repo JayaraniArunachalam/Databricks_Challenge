@@ -8,6 +8,8 @@ Databricks is a unified, open analytics platform for building, deploying, sharin
 ## 📌 Objective
 - Understand why Databricks is used over Pandas and Hadoop for large-scale data processing
 - Learn Lakehouse architecture fundamentals
+- Learn Apache Spark fundamentals, Lazy Evaluation
+- Magic Commands in Databricks
 - Work with Databricks workspace, compute, and data organization
 - Build scalable data pipelines using Spark and Delta Lake
 - Follow Medallion Architecture (Bronze, Silver, Gold)
@@ -55,6 +57,12 @@ This project follows **Lakehouse architecture**, where:
 - Created first PySpark notebook
 - Implemented reusable data loading function
 - Ran basic Spark DataFrame operations
+
+### ✅ Day 2 – Apache Spark Fundamentals
+- Spark architecture (driver, executors, DAG)
+- DataFrames vs RDDs
+- Lazy evaluation
+- Notebook magic commands (`%sql`, `%python`, `%fs`)
 
 (Future days will be added progressively.)
 
