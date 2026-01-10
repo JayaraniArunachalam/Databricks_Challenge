@@ -82,7 +82,7 @@ Databricks_Challenge/
 │ ├── Databricks platform setup and overview.md
 │ └── Apache Spark Fundamentals IN DATABRICKS.pdf
 ├── scripts/
-│ └── load-data_from_csv.py
+│ ├── load-data_from_csv.py
 │ └── Day 2 Basic operations.ipynb
 └── README.md
 ```
