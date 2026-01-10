@@ -94,7 +94,7 @@ Databricks_Challenge/
 Along with daily learning folders, I maintain a living document
 to capture my personal understanding and mental models.
 
-👉 [Points to Remember – Key Learnings](https://github.com/JayaraniArunachalam/Databricks_Challenge/tree/main/Key%20Notes)
+👉 [Points to Remember – Key Learnings](https://github.com/JayaraniArunachalam/Databricks_Challenge/blob/main/Key%20Notes/Points%20to%20remember.md)
 
 ---
 
