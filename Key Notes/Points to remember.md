@@ -74,7 +74,8 @@ and Machine Learning directly on your cloud storage.
 - They are **not functions or methods**
 - Driver plans and coordinates
 - Executors execute tasks in parallel
-
+- 
+![](https://github.com/JayaraniArunachalam/Databricks_Challenge/blob/main/diagrams/apache%20spark%20component.png)
 ---
 
 ## DAG & Lazy Evaluation
