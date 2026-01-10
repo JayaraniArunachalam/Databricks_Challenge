@@ -76,6 +76,8 @@ Databricks_Challenge/
 ├── scripts/
 │ └── load-data_from_csv.py
 │ └── Day 2 Basic operations.ipynb
+├── Key Notes/
+│ ├── Points to remember.md
 ├── docs/
 │ ├── Databricks platform setup and overview.md
 │ └── Apache Spark Fundamentals IN DATABRICKS.pdf
@@ -89,7 +91,7 @@ Databricks_Challenge/
 Along with daily learning folders, I maintain a living document
 to capture my personal understanding and mental models.
 
-👉 [Points to Remember – Key Learnings](Key_Notes/Points_to_Remember.md)
+👉 [Points to Remember – Key Learnings](https://github.com/JayaraniArunachalam/Databricks_Challenge/tree/main/Key%20Notes)
 
 ---
 
