@@ -105,5 +105,49 @@ Unity Catalog acts as the **security and governance layer**:
 - DataFrames are high-level and optimized
 - Catalyst and Tungsten make DataFrames fast
 - RDDs give low-level control but are rarely needed
+
+## PySpark vs Pandas
+
+
+---
+## JOINS, Window Functions and UDFs in Databricks
+
+
+
+---
+
+## What is DeltaLake?
+
+
+
+---
+## How ACID transaction makes data write relaible?
+
+
+
+---
+
+## Schema Enforcement
+Tried to append df with an inappropriate schema with the delta file and capturing the error using try except
+
+
+---
+## Delta Vs Parquet Files
+
+
+
+---
+
+##   Time Travel (Version History)
+- checked history with sql code "DESCRIBE HISTORY " in the tables created
+
+---
+##  MERGE operations (upserts)
+
+---
+## OPTIMIZE & ZORDER
+
+---
+## VACUUM for cleanup
 - Default choice should always be DataFrames
 
