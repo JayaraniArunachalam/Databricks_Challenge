@@ -82,8 +82,10 @@ Databricks_Challenge/
 │ ├── Databricks platform setup and overview.md
 │ └── Apache Spark Fundamentals IN DATABRICKS.pdf
 ├── scripts/
-│ ├── load-data_from_csv.py
-│ └── Day 2 Basic operations.ipynb
+│ ├── Day 1 load-data_from_csv.py
+│ ├── Day 2 Basic operations.ipynb
+│ ├── Day 3 Pyspark Windows Joins.ipynb
+│ └── Day 4 Delta lake.ipynb
 └── README.md
 ```
 
